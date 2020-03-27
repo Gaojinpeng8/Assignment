@@ -1,0 +1,11 @@
+{
+  "name": "flat2",
+  "version": "1.0.0",
+  "description": "我第一个npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaojinpeng",
+  "license": "ISC"
+}
